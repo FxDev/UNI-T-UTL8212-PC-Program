@@ -10,6 +10,8 @@
 
   I would like to point out that I am not responsible for any problems that may occur to your device.
 
+  <picture>https://www.firatdeveci.com/wp-content/uploads/2024/04/PC-Program.png</picture>
+
   V1.0 - First Release
 
   info [@] firatdeveci.com
